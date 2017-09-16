@@ -11,10 +11,10 @@ Commission App
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-
 Water Consumption App
 ![water_consumption](https://user-images.githubusercontent.com/28793729/30516367-fa432b44-9b0a-11e7-8459-5b177188ae12.JPG)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-
+What Type Of Programmer are you?
+![what_type_of_programmer](https://user-images.githubusercontent.com/28793729/30516382-9b399600-9b0b-11e7-932d-fd039a471032.JPG)
