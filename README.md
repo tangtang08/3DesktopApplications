@@ -7,3 +7,4 @@ Backend or as a full stack developer.
 
 
 Commission App 
+![commission_calc](https://user-images.githubusercontent.com/28793729/30516340-078fb304-9b0a-11e7-98b4-38c19b06293b.JPG)
